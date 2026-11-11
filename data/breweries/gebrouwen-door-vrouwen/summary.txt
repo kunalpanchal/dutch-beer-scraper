@@ -1,0 +1,8 @@
+Brewery: Gebrouwen door Vrouwen
+City: Amsterdam
+Province: Noord-Holland
+Beers count (dutch.beer): 20
+Website: https://www.gebrouwendoorvrouwen.nl/en
+KVK: 68478232
+Status: active
+Notes: Scraped from official site and public KVK sources. dutch.beer directory unavailable.
