@@ -1,0 +1,13 @@
+index,name,slug,city,province,beers_count,website,kvk,status,folder,notes
+1,Brouwerij De Molen,brouwerij-de-molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,closed 2025 (Royal Swinkels),breweries/brouwerij-de-molen,homepage scraped; about scraped; beers scraped; shop scraped
+2,Kompaan,kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl/nl,,active,breweries/kompaan,
+3,Two Chefs Brewing,two-chefs-brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com/nl,,active,breweries/two-chefs-brewing,homepage scraped; shop scraped
+4,Jopen,jopen,Haarlem,Noord-Holland,118,https://www.jopenbier.nl,,active,breweries/jopen,homepage scraped; about scraped; contact scraped; beers scraped; shop scraped; careers scraped
+5,Baxbier,baxbier,Groningen,Groningen,108,https://www.baxbier.com,,active,breweries/baxbier,homepage scraped; about scraped; contact scraped; beers scraped
+6,Rock City Brewing,rock-city-brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,,active,breweries/rock-city-brewing,homepage scraped; about scraped; contact scraped; beers scraped
+7,Brouwerij Bliksem,brouwerij-bliksem,Breda,Noord-Brabant,33,https://www.brouwerijbliksem.nl,,active,breweries/brouwerij-bliksem,homepage scraped; contact scraped
+8,Muifelbrouwerij,muifelbrouwerij,Oss,Noord-Brabant,32,https://www.muifelbrouwerij.nl,,active,breweries/muifelbrouwerij,homepage scraped; shop scraped; careers scraped
+9,Stanislaus Brewskovitch,stanislaus-brewskovitch,Enschede,Overijssel,27,https://www.stanislausbrewskovitch.nl,,active,breweries/stanislaus-brewskovitch,homepage scraped; contact scraped; beers scraped; careers scraped
+10,Butcher's Tears,butchers-tears,Amsterdam,Noord-Holland,26,http://www.butchers-tears.com,,active,breweries/butchers-tears,homepage scraped; shop scraped
+11,Brand Bierbrouwerij,brand-bierbrouwerij,Wijlre,Limburg,24,https://www.brand.nl,,active,breweries/brand-bierbrouwerij,homepage scraped
+12,Budelse Brouwerij,budelse-brouwerij,Budel,Noord-Brabant,24,https://www.budels.nl,,active,breweries/budelse-brouwerij,homepage scraped; contact scraped; careers scraped

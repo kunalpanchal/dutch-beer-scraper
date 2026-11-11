@@ -1,0 +1,5 @@
+last_processed_index=12
+total_breweries=1028
+status=in_progress
+last_batch=1-12
+site_status=deployment_paused_as_of_2026-11-11
