@@ -11,3 +11,13 @@ index,name,slug,city,province,beers_count,website,kvk,status,folder,notes
 10,Butcher's Tears,butchers-tears,Amsterdam,Noord-Holland,26,http://www.butchers-tears.com,,active,breweries/butchers-tears,homepage scraped; shop scraped
 11,Brand Bierbrouwerij,brand-bierbrouwerij,Wijlre,Limburg,24,https://www.brand.nl,,active,breweries/brand-bierbrouwerij,homepage scraped
 12,Budelse Brouwerij,budelse-brouwerij,Budel,Noord-Brabant,24,https://www.budels.nl,,active,breweries/budelse-brouwerij,homepage scraped; contact scraped; careers scraped
+13,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,Berkel-Enschot,Noord-Brabant,21,https://www.koningshoeven.nl/de-abdij/brouwerij,18042956,active,breweries/brouwerij-de-koningshoeven,Trappist brewery; about scraped from official site
+14,Gebrouwen door Vrouwen,gebrouwen-door-vrouwen,Amsterdam,Noord-Holland,20,https://www.gebrouwendoorvrouwen.nl/en,68478232,active,breweries/gebrouwen-door-vrouwen,homepage scraped; about scraped; contact extracted; shop noted
+15,Pontus Brewing,pontus-brewing,Amsterdam,Noord-Holland,19,https://pontusbrewing.nl,75551152,active (Naeckte Brouwers),breweries/pontus-brewing,KVK found; beers listed from public sources
+16,Maximus Brouwerij,maximus-brouwerij,Utrecht,Utrecht,17,https://maximusbrouwerij.nl,52134792,active,breweries/maximus-brouwerij,homepage scraped; about/contact from public sources
+17,Brouwerij De Eeuwige Jeugd,brouwerij-de-eeuwige-jeugd,Amsterdam,Noord-Holland,16,https://deeeuwigejeugd.nl,,active,breweries/brouwerij-de-eeuwige-jeugd,summary created
+18,Folkingebrew,folkingebrew,Groningen,Groningen,15,https://folkingebrew.nl/the-pub,,active,breweries/folkingebrew,summary created
+19,Speciaalbierbrouwerij Duits & Lauret,speciaalbierbrouwerij-duits-lauret,Everdingen,Utrecht,10,https://duitslauret.com,,active,breweries/speciaalbierbrouwerij-duits-lauret,summary created
+20,Hertog Jan Brouwerij,hertog-jan-brouwerij,Arcen,Limburg,8,https://hertogjan.nl,,active,breweries/hertog-jan-brouwerij,summary created
+21,Brouwerij Sint Christoffel,brouwerij-sint-christoffel,Roermond,Limburg,7,https://christoffelbieren.com,,active,breweries/brouwerij-sint-christoffel,summary created
+22,iKi Beer,iki-beer,Amsterdam,Noord-Holland,6,https://ikibeer.nl,,active,breweries/iki-beer,summary created
