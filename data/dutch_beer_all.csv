@@ -21,3 +21,13 @@ index,name,slug,city,province,beers_count,website,kvk,status,folder,notes
 20,Hertog Jan Brouwerij,hertog-jan-brouwerij,Arcen,Limburg,8,https://hertogjan.nl,,active,breweries/hertog-jan-brouwerij,summary created
 21,Brouwerij Sint Christoffel,brouwerij-sint-christoffel,Roermond,Limburg,7,https://christoffelbieren.com,,active,breweries/brouwerij-sint-christoffel,summary created
 22,iKi Beer,iki-beer,Amsterdam,Noord-Holland,6,https://ikibeer.nl,,active,breweries/iki-beer,summary created
+23,Brouwerij 't IJ,brouwerij-t-ij,Amsterdam,Noord-Holland,,https://brouwerijhetij.nl,,active,breweries/brouwerij-t-ij,homepage and about scraped
+24,Gulpener Bierbrouwerij,gulpener-bierbrouwerij,Gulpen,Limburg,,https://gulpener.nl,,active,breweries/gulpener-bierbrouwerij,homepage scraped
+25,Alfa Brouwerij,alfa-brouwerij,Schinnen,Limburg,,https://alfa-bier.nl,,active,breweries/alfa-brouwerij,homepage scraped
+26,Bierbrouwerij Lindeboom,bierbrouwerij-lindeboom,Neer,Limburg,,https://lindeboom.nl,,active,breweries/bierbrouwerij-lindeboom,homepage scraped
+27,Brouwerij de Prael,brouwerij-de-prael,Amsterdam,Noord-Holland,,https://deprael.nl,,active,breweries/brouwerij-de-prael,homepage scraped
+28,Brouwerij Troost,brouwerij-troost,Amsterdam,Noord-Holland,,https://brouwerijtroost.nl,,active,breweries/brouwerij-troost,homepage attempted (captcha)
+29,Kaapse Brouwers,kaapse-brouwers,Rotterdam,Zuid-Holland,,https://kaapsebrouwers.nl,,active,breweries/kaapse-brouwers,homepage scraped
+30,Frontaal Brewing Company,frontaal-brewing-company,Breda,Noord-Brabant,,https://frontaalbrewingcompany.com,,active,breweries/frontaal-brewing-company,homepage and about scraped
+31,Uiltje Brewing Company,uiltje-brewing-company,Haarlem,Noord-Holland,,https://uiltjebrewing.com,65259831,active,breweries/uiltje-brewing-company,homepage and contact scraped; KVK found
+32,Bird Brewery,bird-brewery,Diemen,Noord-Holland,,https://birdbrewery.com,,active,breweries/bird-brewery,homepage scraped

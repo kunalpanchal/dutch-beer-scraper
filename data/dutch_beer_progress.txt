@@ -1,6 +1,6 @@
-last_processed_index=22
+last_processed_index=32
 total_breweries=1028
 status=in_progress
-last_batch=13-22
-site_status=deployment_paused_as_of_2026-11-11
-note=dutch.beer unavailable; scraped official sites and KVK via public sources
+last_batch=23-32
+site_status=deployment_paused_as_of_2026-11-13
+note=dutch.beer unavailable; continued with known Dutch craft breweries; scraped official sites where possible
