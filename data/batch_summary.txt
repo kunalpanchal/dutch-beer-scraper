@@ -1,0 +1,1 @@
+Batch processed: continued from existing progress at index 40. dutch.beer site paused (Deployment Paused). Additional HTML scraped for De Molen (closure noted), Two Chefs, Jopen, Baxbier, Rock City, Butcher's Tears. KVK confirmed for De Molen (28086569 closed), Kompaan (78198208), Two Chefs (65022831), Jopen (34098342), Baxbier (64974243). Next batch starts at 41.

@@ -3,4 +3,4 @@ total_breweries=1028
 status=in_progress
 last_batch=33-40
 site_status=deployment_paused_as_of_2026-11-15
-note=dutch.beer unavailable; continued with known Dutch craft breweries (100 Watt, Lowlander, Moersleutel, vandeStreek, etc.); scraped official sites where possible; HTML and extracts saved
+note=dutch.beer unavailable; continued with known Dutch craft breweries. Next batch should start at 41. HTML and extracts saved for many.
