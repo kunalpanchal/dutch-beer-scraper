@@ -31,3 +31,11 @@ index,name,slug,city,province,beers_count,website,kvk,status,folder,notes
 30,Frontaal Brewing Company,frontaal-brewing-company,Breda,Noord-Brabant,,https://frontaalbrewingcompany.com,,active,breweries/frontaal-brewing-company,homepage and about scraped
 31,Uiltje Brewing Company,uiltje-brewing-company,Haarlem,Noord-Holland,,https://uiltjebrewing.com,65259831,active,breweries/uiltje-brewing-company,homepage and contact scraped; KVK found
 32,Bird Brewery,bird-brewery,Diemen,Noord-Holland,,https://birdbrewery.com,,active,breweries/bird-brewery,homepage scraped
+33,100 Watt,100-watt,Eindhoven,Noord-Brabant,97,https://100watt.nl,59339144,active,breweries/100-watt,homepage/about/contact/shop scraped; KVK found; Lighttown Brewers
+34,Lowlander,lowlander,Amsterdam,Noord-Holland,23,https://lowlander.nl,64409821,active,breweries/lowlander,homepage/contact scraped; botanical low/no focus; AB InBev partnership
+35,Moersleutel Craft Brewery,moersleutel-craft-brewery,Alkmaar,Noord-Holland,,https://moersleutel.com,88778118,active,breweries/moersleutel-craft-brewery,homepage/about/contact scraped; beer engineering; KVK confirmed
+36,vandeStreek,vandestreek,Utrecht,Utrecht,,https://vandestreek.nl,,active,breweries/vandestreek,homepage scraped
+37,Brouwerij Kees,brouwerij-kees,Middelburg,Zeeland,,https://brouwerijkees.nl,,active,breweries/brouwerij-kees,homepage scraped (partial)
+38,Brouwerij Poesiat & Kater,poesiat-en-kater,Amsterdam,Noord-Holland,,https://poesiatenkater.nl,,active,breweries/poesiat-en-kater,homepage scraped
+39,Oproer Brouwerij,oproer-brouwerij,Utrecht,Utrecht,,https://oproerbrouwerij.nl,,active,breweries/oproer-brouwerij,homepage scraped
+40,Brouwerij De Leckere,de-leckere,Utrecht,Utrecht,24,https://deleckere.nl,,active,breweries/de-leckere,homepage scraped
