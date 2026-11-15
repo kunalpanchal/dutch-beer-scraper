@@ -1,0 +1,4 @@
+41,Bierbrouwerij De Magistraat,bierbrouwerij-de-magistraat,Almkerk,Noord-Brabant,22,https://www.magistraat.beer,71209743,active,breweries/bierbrouwerij-de-magistraat,homepage+about scraped; KVK confirmed; Biesbosch collab; proeflokaal; opening hours noted
+42,Brouwerij De Smokkelaar,brouwerij-de-smokkelaar,Overdinkel,Overijssel,22,https://www.brouwerijdesmokkelaar.nl,85645214,active,breweries/brouwerij-de-smokkelaar,homepage+about+contact scraped; also stokerij; KVK confirmed
+43,Oedipus Brewing,oedipus-brewing,Amsterdam,Noord-Holland,,https://oedipus.nl,,active,breweries/oedipus-brewing,homepage scraped
+44,Oersoep,oersoep,Nijmegen,Gelderland,,https://oersoep.nl,,active,breweries/oersoep,homepage scraped
