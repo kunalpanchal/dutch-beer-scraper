@@ -1,0 +1,6 @@
+Batch 1 processed (indices 1-3):
+- Brouwerij De Molen (KVK 28086569, closed 2025): homepage, about, contact HTML + text saved in data/breweries/brouwerij-de-molen/
+- Kompaan (KVK 78198208, active): homepage, about, brewery HTML + text in data/breweries/kompaan/
+- Two Chefs Brewing (KVK 65022831, active): homepage, about, contact, careers HTML + text in data/breweries/two-chefs-brewing/
+
+dutch.beer directory still Deployment Paused; used official sites from prior directory data. Progress updated to index 3.
