@@ -1,0 +1,9 @@
+Name: Pontus Brewing
+Slug: pontus-brewing
+Index: 15
+City: Amsterdam
+Province: Noord-Holland
+Beers listed: 19
+Website: https://pontusbrewing.nl
+KVK: 62618474 (original, status: brewing entity deregistered; now brand under Naeckte Brouwers since ~2020/2025)
+Notes: Started as Brouwerij Pampus 2013. Focus on experimental, complex beers. Many double IPAs, bocks.

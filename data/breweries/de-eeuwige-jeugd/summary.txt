@@ -1,0 +1,8 @@
+Name: Brouwerij De Eeuwige Jeugd
+Slug: de-eeuwige-jeugd
+Index: 17
+City: Amsterdam
+Province: Noord-Holland
+Beers listed: 16
+Website: https://deeeuwigejeugd.nl
+Notes: Amsterdam craft brewery.

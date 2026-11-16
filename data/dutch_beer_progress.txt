@@ -1,5 +1,5 @@
-last_processed_index=13
-total_processed=13
+last_processed_index=21
+total_processed=21
 status=in_progress
-notes=dutch.beer site Deployment Paused. Processed batch 4-13 (Jopen to De Koningshoeven) with official site HTML, extracts, KVK where found. Next from 14.
+notes=dutch.beer site Deployment Paused. Processed batch 14-21 (Gebrouwen door Vrouwen to Sint Christoffel) with official site HTML where available, extracts, KVK where found. Next from 22.
 date=2026-11-16

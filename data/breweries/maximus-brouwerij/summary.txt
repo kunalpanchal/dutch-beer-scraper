@@ -1,0 +1,8 @@
+Name: Maximus Brouwerij
+Slug: maximus-brouwerij
+Index: 16
+City: Utrecht
+Province: Utrecht
+Beers listed: 17
+Website: https://maximusbrouwerij.nl
+Notes: Utrecht-based. Check site for details and KVK.

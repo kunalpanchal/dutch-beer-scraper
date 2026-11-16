@@ -1,8 +1,11 @@
-Brewery: Gebrouwen door Vrouwen
+Name: Gebrouwen door Vrouwen
+Slug: gebrouwen-door-vrouwen
+Index: 14
 City: Amsterdam
 Province: Noord-Holland
-Beers count (dutch.beer): 20
-Website: https://www.gebrouwendoorvrouwen.nl/en
-KVK: 68478232
-Status: active
-Notes: Scraped from official site and public KVK sources. dutch.beer directory unavailable.
+Beers listed: 20
+Website: https://gebrouwendoorvrouwen.nl
+KVK: 68478232 (active, BV, since 2015)
+Address: Nieuwe Hemweg 4F, 1013 BG Amsterdam
+Notes: Founded by sisters Tessel and Do de Heij in 2013 as hobby. Focus on herbed specialty beers. BAR location for tasting. Webshop and B2B.
+Sources: dutch.beer, KVK lookups, official site.

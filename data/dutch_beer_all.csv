@@ -12,3 +12,11 @@ index,name,slug,kvk,status,website,folder,notes
 11,Brand Bierbrouwerij,brand-bierbrouwerij,,active,https://brand.nl,data/breweries/brand-bierbrouwerij,homepage HTML + summary; historic brewery
 12,Budelse Brouwerij,budelse-brouwerij,,active,https://budels.nl,data/breweries/budelse-brouwerij,homepage HTML + summary
 13,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,,active,https://koningshoeven.nl,data/breweries/brouwerij-de-koningshoeven,homepage HTML + summary; Trappist
+14,Gebrouwen door Vrouwen,gebrouwen-door-vrouwen,68478232,active,https://gebrouwendoorvrouwen.nl,data/breweries/gebrouwen-door-vrouwen,KVK 68478232 BV Amsterdam since 2015; homepage/about HTML + summary/beers; sisters-founded herbed beers
+15,Pontus Brewing,pontus-brewing,62618474,deregistered (brand under Naeckte Brouwers),https://pontusbrewing.nl,data/breweries/pontus-brewing,KVK 62618474 original; brewing entity deregistered ~2025; beers list extracted; homepage scrape failed
+16,Maximus Brouwerij,maximus-brouwerij,,active,https://maximusbrouwerij.nl,data/breweries/maximus-brouwerij,homepage HTML + summary
+17,Brouwerij De Eeuwige Jeugd,de-eeuwige-jeugd,,active,https://deeeuwigejeugd.nl,data/breweries/de-eeuwige-jeugd,homepage HTML + summary
+18,Folkingebrew,folkingebrew,,active,https://folkingebrew.nl,data/breweries/folkingebrew,homepage HTML + summary
+19,Speciaalbierbrouwerij Duits & Lauret,duits-lauret,,active,https://duitslauret.com,data/breweries/duits-lauret,homepage HTML + summary
+20,Hertog Jan Brouwerij,hertog-jan,,active,https://hertogjan.nl,data/breweries/hertog-jan,homepage HTML + summary
+21,Brouwerij Sint Christoffel,christoffel,,active,https://christoffelbieren.com,data/breweries/christoffel,summary only; homepage scrape failed
