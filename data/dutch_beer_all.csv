@@ -2,3 +2,13 @@ index,name,slug,kvk,status,website,folder,notes
 1,Brouwerij De Molen,brouwerij-de-molen,28086569,closed 2025 (was active),https://www.brouwerijdemolen.nl,data/breweries/brouwerij-de-molen,KVK 28086569 BV Bodegraven; closed Oct 2025; homepage/about/contact HTML + text extracted
 2,Kompaan,kompaan,78198208,active,https://kompaanbier.nl,data/breweries/kompaan,KVK 78198208 BV Den Haag; about/brewery pages scraped; core beers noted
 3,Two Chefs Brewing,two-chefs-brewing,65022831,active,https://twochefsbrewing.com,data/breweries/two-chefs-brewing,KVK 65022831 BV Amsterdam; homepage/about/contact/careers HTML + text
+4,Jopen,jopen,34098342,active,https://www.jopenbier.nl,data/breweries/jopen,KVK 34098342 BV Haarlem; homepage HTML + summary extracted
+5,Baxbier,baxbier,64974243,active,https://baxbier.com,data/breweries/baxbier,KVK 64974243 BV Groningen; homepage HTML + summary
+6,Rock City Brewing,rock-city-brewing,69778353,active,https://rockcitybrewing.nl,data/breweries/rock-city-brewing,KVK 69778353 BV Amersfoort; homepage HTML + summary
+7,Brouwerij Bliksem,brouwerij-bliksem,73313076,active,https://brouwerijbliksem.nl,data/breweries/brouwerij-bliksem,KVK 73313076 BV Breda; homepage HTML + summary
+8,Muifelbrouwerij,muifelbrouwerij,,active,https://muifelbrouwerij.nl,data/breweries/muifelbrouwerij,homepage HTML + summary; KVK pending full lookup
+9,Stanislaus Brewskovitch,stanislaus-brewskovitch,,active,https://stanislausbrewskovitch.nl,data/breweries/stanislaus-brewskovitch,homepage HTML + summary; KVK pending
+10,Butcher's Tears,butchers-tears,54592062,active,https://butchers-tears.com,data/breweries/butchers-tears,KVK 54592062 VOF Amsterdam/Aalsmeer; homepage HTML + summary
+11,Brand Bierbrouwerij,brand-bierbrouwerij,,active,https://brand.nl,data/breweries/brand-bierbrouwerij,homepage HTML + summary; historic brewery
+12,Budelse Brouwerij,budelse-brouwerij,,active,https://budels.nl,data/breweries/budelse-brouwerij,homepage HTML + summary
+13,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,,active,https://koningshoeven.nl,data/breweries/brouwerij-de-koningshoeven,homepage HTML + summary; Trappist
