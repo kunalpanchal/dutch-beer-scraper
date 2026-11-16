@@ -1,6 +1,5 @@
-last_processed_index=48
-total_processed=48
-last_batch=deep-scrape-45-48-major-brands
+last_processed_index=3
+total_processed=3
 status=in_progress
-notes=dutch.beer site still Deployment Paused. Processed next batch 45-48 (Amstel, Heineken, Grolsch, Texelse) with official site HTML, extracts, and KVK. Next from 49.
+notes=dutch.beer site Deployment Paused. Processed first batch 1-3 (De Molen, Kompaan, Two Chefs) with official site HTML, extracts, KVK. Next from 4.
 date=2026-11-16
