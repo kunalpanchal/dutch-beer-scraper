@@ -1,6 +1,6 @@
-last_processed_index=44
-total_processed=44
-last_batch=deep-scrape-top-10-with-html-and-kvk
+last_processed_index=48
+total_processed=48
+last_batch=deep-scrape-45-48-major-brands
 status=in_progress
-notes=dutch.beer site Deployment Paused. Deep-scraped official sites for top 10 (De Molen closed 2025 KVK 28086569, Kompaan 78198208, Two Chefs 65022831, Jopen 34098342, Baxbier 64974243, Rock City 69778353, Bliksem 73313076, Muifel 70805245, Stanislaus bankrupt 2025, Butcher's Tears 54592062). HTML + extracts + summaries saved in folders. Next batch from index 45.
-date=2026-11-15
+notes=dutch.beer site still Deployment Paused. Processed next batch 45-48 (Amstel, Heineken, Grolsch, Texelse) with official site HTML, extracts, and KVK. Next from 49.
+date=2026-11-16
