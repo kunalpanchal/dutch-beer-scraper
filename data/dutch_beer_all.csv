@@ -1,22 +1,11 @@
-index,name,slug,kvk,status,website,folder,notes
-1,Brouwerij De Molen,brouwerij-de-molen,28086569,closed 2025 (was active),https://www.brouwerijdemolen.nl,data/breweries/brouwerij-de-molen,KVK 28086569 BV Bodegraven; closed Oct 2025; homepage/about/contact HTML + text extracted
-2,Kompaan,kompaan,78198208,active,https://kompaanbier.nl,data/breweries/kompaan,KVK 78198208 BV Den Haag; about/brewery pages scraped; core beers noted
-3,Two Chefs Brewing,two-chefs-brewing,65022831,active,https://twochefsbrewing.com,data/breweries/two-chefs-brewing,KVK 65022831 BV Amsterdam; homepage/about/contact/careers HTML + text
-4,Jopen,jopen,34098342,active,https://www.jopenbier.nl,data/breweries/jopen,KVK 34098342 BV Haarlem; homepage HTML + summary extracted
-5,Baxbier,baxbier,64974243,active,https://baxbier.com,data/breweries/baxbier,KVK 64974243 BV Groningen; homepage HTML + summary
-6,Rock City Brewing,rock-city-brewing,69778353,active,https://rockcitybrewing.nl,data/breweries/rock-city-brewing,KVK 69778353 BV Amersfoort; homepage HTML + summary
-7,Brouwerij Bliksem,brouwerij-bliksem,73313076,active,https://brouwerijbliksem.nl,data/breweries/brouwerij-bliksem,KVK 73313076 BV Breda; homepage HTML + summary
-8,Muifelbrouwerij,muifelbrouwerij,,active,https://muifelbrouwerij.nl,data/breweries/muifelbrouwerij,homepage HTML + summary; KVK pending full lookup
-9,Stanislaus Brewskovitch,stanislaus-brewskovitch,,active,https://stanislausbrewskovitch.nl,data/breweries/stanislaus-brewskovitch,homepage HTML + summary; KVK pending
-10,Butcher's Tears,butchers-tears,54592062,active,https://butchers-tears.com,data/breweries/butchers-tears,KVK 54592062 VOF Amsterdam/Aalsmeer; homepage HTML + summary
-11,Brand Bierbrouwerij,brand-bierbrouwerij,,active,https://brand.nl,data/breweries/brand-bierbrouwerij,homepage HTML + summary; historic brewery
-12,Budelse Brouwerij,budelse-brouwerij,,active,https://budels.nl,data/breweries/budelse-brouwerij,homepage HTML + summary
-13,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,,active,https://koningshoeven.nl,data/breweries/brouwerij-de-koningshoeven,homepage HTML + summary; Trappist
-14,Gebrouwen door Vrouwen,gebrouwen-door-vrouwen,68478232,active,https://gebrouwendoorvrouwen.nl,data/breweries/gebrouwen-door-vrouwen,KVK 68478232 BV Amsterdam since 2015; homepage/about HTML + summary/beers; sisters-founded herbed beers
-15,Pontus Brewing,pontus-brewing,62618474,deregistered (brand under Naeckte Brouwers),https://pontusbrewing.nl,data/breweries/pontus-brewing,KVK 62618474 original; brewing entity deregistered ~2025; beers list extracted; homepage scrape failed
-16,Maximus Brouwerij,maximus-brouwerij,,active,https://maximusbrouwerij.nl,data/breweries/maximus-brouwerij,homepage HTML + summary
-17,Brouwerij De Eeuwige Jeugd,de-eeuwige-jeugd,,active,https://deeeuwigejeugd.nl,data/breweries/de-eeuwige-jeugd,homepage HTML + summary
-18,Folkingebrew,folkingebrew,,active,https://folkingebrew.nl,data/breweries/folkingebrew,homepage HTML + summary
-19,Speciaalbierbrouwerij Duits & Lauret,duits-lauret,,active,https://duitslauret.com,data/breweries/duits-lauret,homepage HTML + summary
-20,Hertog Jan Brouwerij,hertog-jan,,active,https://hertogjan.nl,data/breweries/hertog-jan,homepage HTML + summary
-21,Brouwerij Sint Christoffel,christoffel,,active,https://christoffelbieren.com,data/breweries/christoffel,summary only; homepage scrape failed
+index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,scraped_at
+1,Brouwerij De Molen,brouwerij-de-molen,Bodegraven,Zuid-Holland,https://brouwerijdemolen.nl,28086569,"B.V., active as of last data but Wikipedia notes closed Oct 2025 under Royal Swinkels",370,data/breweries/brouwerij-de-molen,Homepage 403 blocked. KVK confirmed. Folder created with meta. Source: dutch.beer search snippet (site currently 402).,2026-11-17T01:23:38.650587
+2,Kompaan,kompaan,Den Haag,Zuid-Holland,https://kompaanbier.nl,78198208,"Kompaan Dutch Craft Beer Company B.V., active",188,data/breweries/kompaan,Homepage 403 blocked. KVK 78198208. Folder with meta.,2026-11-17T01:23:38.650609
+3,Two Chefs Brewing,two-chefs-brewing,Amsterdam,Noord-Holland,https://twochefsbrewing.com,65022831,"Two Chefs Brewery B.V., active",124,data/breweries/two-chefs-brewing,Homepage + shop/contact HTML saved. KVK confirmed.,2026-11-17T01:23:38.650616
+4,Jopen,jopen,Haarlem,Noord-Holland,https://jopenbier.nl,34098342,"Jopen B.V., active",118,data/breweries/jopen,"Homepage, bieren, contact, shop HTML saved. KVK confirmed.",2026-11-17T01:23:38.650621
+5,Baxbier,baxbier,Groningen,Groningen,https://baxbier.com,,not looked up this batch,108,data/breweries/baxbier,Homepage + shop HTML saved.,2026-11-17T01:23:38.650625
+6,Rock City Brewing,rock-city-brewing,Amersfoort,Utrecht,https://rockcitybrewing.nl,,not looked up this batch,93,data/breweries/rock-city-brewing,"Homepage, over-ons, bieren, contact, shop HTML saved.",2026-11-17T01:23:38.650629
+7,Brouwerij Bliksem,brouwerij-bliksem,Breda,Noord-Brabant,https://brouwerijbliksem.nl,,not looked up this batch,33,data/breweries/brouwerij-bliksem,"Homepage, contact, shop HTML saved.",2026-11-17T01:23:38.650633
+8,Muifelbrouwerij,muifelbrouwerij,Oss,Noord-Brabant,https://muifelbrouwerij.nl,,not looked up this batch,32,data/breweries/muifelbrouwerij,Homepage + webshop HTML saved.,2026-11-17T01:23:38.650637
+9,Stanislaus Brewskovitch,stanislaus-brewskovitch,Enschede,Overijssel,https://stanislausbrewskovitch.nl,,not looked up this batch,27,data/breweries/stanislaus-brewskovitch,"Homepage, contact, shop HTML saved.",2026-11-17T01:23:38.650641
+10,Butcher's Tears,butcher-s-tears,Amsterdam,Noord-Holland,https://butchers-tears.com,,not looked up this batch,26,data/breweries/butcher-s-tears,"Homepage, about, shop HTML saved.",2026-11-17T01:23:38.650645
