@@ -1,3 +1,5 @@
 index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,scraped_at
 21,Brouwerij Sint Christoffel,sint-christoffel,Roermond,Limburg,https://christoffelbieren.com,57508453,"Sint Christoffel Bieren BV (post-2013 restart), original 14120128 liquidated 2013",7,data/breweries/sint-christoffel,Contract brewed post-bankruptcy. KVK for current entity. Folder with summary.,2026-11-17T04:30:00
 22,iKi Beer,iki-beer,'s-Hertogenbosch,Noord-Brabant,https://www.ikibeer.com,34228852,"iKi Beer B.V., active",5,data/breweries/iki-beer,Green tea beer pioneer. Homepage + about HTML saved. KVK confirmed.,2026-11-17T04:30:00
+23,Henky,henky,'s-Hertogenbosch,Noord-Brabant,https://www.henkybier.nl,78230470,"Henky B.V., active, SBI 1105",2,data/breweries/henky,Founded 2020. Homepage HTML saved. KVK confirmed.,2026-11-17T05:20:00
+24,Berghoeve Brouwerij,berghoeve-brouwerij,Den Ham,Overijssel,https://www.berghoevebrouwerij.nl,08215086,"Berghoeve Den Ham VOF h.o. Berghoeve Brouwerij, active",1,data/breweries/berghoeve-brouwerij,Microbrewery since 2010. Homepage HTML saved. KVK confirmed.,2026-11-17T05:20:00
