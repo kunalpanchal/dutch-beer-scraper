@@ -1,8 +1,6 @@
-Name: Folkingebrew
-Slug: folkingebrew
-Index: 18
-City: Groningen
-Province: Groningen
-Beers listed: 15
+Folkingebrew
+City: Groningen, Groningen
 Website: https://folkingebrew.nl
-Notes: Groningen, has a pub.
+KVK: not looked up this batch
+Notes: From dutch.beer. 15 beers. Pub associated.
+Scraped: 2026-11-17

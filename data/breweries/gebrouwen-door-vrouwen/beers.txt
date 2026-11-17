@@ -1,0 +1,7 @@
+Core beers from sources:
+- Bloesem Blond (Blond with elderflower, ~6.2%)
+- Gin Weizen (~6%)
+- Gember Goud (Pale Ale with ginger, ~4.7%)
+- Tricky Tripel (~7.8%)
+- Zonnig Zeewit (White with seaweed, ~3.8%)
+- Seasonal: Citrus Paradisi, Pumpkin Party, etc.

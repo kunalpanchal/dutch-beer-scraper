@@ -1,8 +1,8 @@
-Brewery: Brouwerij De Koningshoeven
-City: Berkel-Enschot
-Province: Noord-Brabant
-Beers count (dutch.beer): 21
-Website: https://www.koningshoeven.nl/de-abdij/brouwerij
-KVK: 18042956
-Status: active
-Notes: Trappist brewery (La Trappe). Scraped from official site and public KVK sources. dutch.beer directory unavailable.
+Brouwerij De Koningshoeven (La Trappe)
+City: Berkel-Enschot, Noord-Brabant
+Website: https://www.koningshoeven.nl or latrappe.nl
+KVK: 18042956 (Bierbrouwerij de Koningshoeven B.V., active)
+Founded: 1885 as Trappist brewery
+Notes: Authentic Trappist brewery at Abbey of Koningshoeven. Proeflokaal and shop.
+Beers: 21 listed
+Scraped: 2026-11-17

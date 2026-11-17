@@ -1,8 +1,6 @@
-Name: Speciaalbierbrouwerij Duits & Lauret
-Slug: duits-lauret
-Index: 19
-City: Everdingen
-Province: Utrecht
-Beers listed: 10
+Speciaalbierbrouwerij Duits & Lauret
+City: Everdingen, Utrecht
 Website: https://duitslauret.com
-Notes: Specialty brewery in Utrecht province.
+KVK: not looked up this batch
+Notes: From dutch.beer. 10 beers, often Stout.
+Scraped: 2026-11-17

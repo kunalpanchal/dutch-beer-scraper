@@ -1,8 +1,6 @@
-Name: Hertog Jan Brouwerij
-Slug: hertog-jan
-Index: 20
-City: Arcen
-Province: Limburg
-Beers listed: 8
+Hertog Jan Brouwerij
+City: Arcen, Limburg
 Website: https://hertogjan.nl
-Notes: Historic Dutch brewery, part of larger group. Famous for its beers.
+KVK: not looked up this batch (part of larger group)
+Notes: From dutch.beer. 8 beers. Historic brand.
+Scraped: 2026-11-17

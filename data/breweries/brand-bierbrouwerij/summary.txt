@@ -1,0 +1,8 @@
+Brand Bierbrouwerij
+City: Wijlre, Limburg
+Website: https://www.brand.nl
+KVK: 14601316 (Brand Bierbrouwerij B.V., active)
+Founded: 1767 (oldest in NL claims)
+Notes: Historic brewery, now under Heineken group. Production of pils moved; Wijlre as micro with proeflokaal. Homepage saved (age-gate present).
+Beers listed on dutch.beer: 24
+Scraped: 2026-11-17

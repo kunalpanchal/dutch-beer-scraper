@@ -1,11 +1,8 @@
-Name: Gebrouwen door Vrouwen
-Slug: gebrouwen-door-vrouwen
-Index: 14
-City: Amsterdam
-Province: Noord-Holland
-Beers listed: 20
-Website: https://gebrouwendoorvrouwen.nl
-KVK: 68478232 (active, BV, since 2015)
-Address: Nieuwe Hemweg 4F, 1013 BG Amsterdam
-Notes: Founded by sisters Tessel and Do de Heij in 2013 as hobby. Focus on herbed specialty beers. BAR location for tasting. Webshop and B2B.
-Sources: dutch.beer, KVK lookups, official site.
+Gebrouwen door Vrouwen
+City: Amsterdam, Noord-Holland
+Website: https://www.gebrouwendoorvrouwen.nl
+KVK: 68478232 (Gebrouwen door Vrouwen B.V., active)
+Founded: 2015 by sisters Do and Tessel de Heij
+Notes: Contract brewery focusing on herbal, sweetish beers. Own bar in Amsterdam. Core beers: Bloesem Blond, Gin Weizen, Gember Goud, Tricky Tripel, Zonnig Zeewit.
+Beers: 20 listed
+Scraped: 2026-11-17

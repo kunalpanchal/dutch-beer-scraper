@@ -1,7 +1,7 @@
-last_processed_index=10
-total_processed=10
+last_processed_index=20
+total_processed=20
 status=in_progress
-source_note=dutch.beer site currently returns 402 Deployment Paused / Payment Required. Batch from search snippets + official sites. Open Brewery DB used for supplementary data.
+source_note=dutch.beer site currently returns Deployment Paused. Batch 11-20 from directory listing via search + KVK lookups. Official sites partially scraped (Brand homepage saved).
 batch_size=10
-last_batch_date=2026-11-17T01:23:39.000218
-next_start_index=11
+last_batch_date=2026-11-17T03:30:00
+next_start_index=21
