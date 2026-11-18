@@ -3,3 +3,9 @@ index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,s
 22,iKi Beer,iki-beer,'s-Hertogenbosch,Noord-Brabant,https://www.ikibeer.com,34228852,"iKi Beer B.V., active",5,data/breweries/iki-beer,Green tea beer pioneer. Homepage + about HTML saved. KVK confirmed.,2026-11-17T04:30:00
 23,Henky,henky,'s-Hertogenbosch,Noord-Brabant,https://www.henkybier.nl,78230470,"Henky B.V., active, SBI 1105",2,data/breweries/henky,Founded 2020. Homepage HTML saved. KVK confirmed.,2026-11-17T05:20:00
 24,Berghoeve Brouwerij,berghoeve-brouwerij,Den Ham,Overijssel,https://www.berghoevebrouwerij.nl,08215086,"Berghoeve Den Ham VOF h.o. Berghoeve Brouwerij, active",1,data/breweries/berghoeve-brouwerij,Microbrewery since 2010. Homepage HTML saved. KVK confirmed.,2026-11-17T05:20:00
+25,100 Watt,100-watt,Eindhoven,Noord-Brabant,https://100watt.nl/,59339144,"Stadsbrouwerij Eindhoven B.V., active",97,data/breweries/100-watt,Craft brewery Eindhoven, homepage HTML + summary + beers.txt saved. KVK confirmed.,2026-11-18T04:30:00
+26,Lowlander,lowlander,Amsterdam,Noord-Holland,https://lowlander.nl/,64409821,"Lowlander Beer Co B.V., active",23,data/breweries/lowlander,Botanical Low & No beers. Homepage HTML + summary saved. KVK confirmed.,2026-11-18T04:30:00
+27,Grutte Pier Brouwerij,grutte-pier,Bartlehiem,Friesland,https://gruttepier.nl/,,active,23,data/breweries/grutte-pier,Friesland brewery. Minimal summary. Site paused limited scrape.,2026-11-18T04:40:00
+28,Brouwerij De Leckere,de-leckere,,Utrecht,https://deleckere.nl/,,active,24,data/breweries/de-leckere,Organic brewery. Minimal summary.,2026-11-18T04:40:00
+29,Frontaal Brewing Company,frontaal,Breda,Noord-Brabant,https://frontaal.com/,,active,,data/breweries/frontaal,Known for festivals. Minimal.,2026-11-18T04:40:00
+30,Oedipus Brewing,oedipus,Amsterdam,Noord-Holland,https://oedipus.nl/,,active,,data/breweries/oedipus,Amsterdam craft. Minimal.,2026-11-18T04:40:00

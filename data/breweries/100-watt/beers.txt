@@ -1,1 +1,11 @@
-Core and special beers include 15 Watt (Pils), 150 Watt (Quadrupel), 200 Watt (Gerstewijn), 400 Volt series (Imperial Stouts, barrel aged), anniversary releases, IPAs, etc. Full list from dutch.beer and Untappd.
+Sample beers from dutch.beer listing (first 10 of 97):
+1. 1 Year Anniversary - Quadrupel 10%
+2. 110 Volt Berry Madness - Porter 5.8%
+3. 15 Watt - Pils 4.8%
+4. 150 Watt - Quadrupel 10%
+5. 2 Year Anniversary - Porter 8.5%
+6. 200 Watt - Gerstewijn 12%
+7. 200 Watt BA Tawny Port - Gerstewijn 11.99%
+8. 240 Volt - Imperial Stout 7.7%
+9. 3 Year Anniversary - 9.3%
+10. 4 Year Anniversary - Black IPA 8.2%

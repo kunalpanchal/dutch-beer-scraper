@@ -1,5 +1,1 @@
-Brouwerij De Leckere
-Location: Utrecht area
-Website: https://deleckere.nl
-Status: active
-Notes: Homepage scraped. Organic/special beers.
+Minimal summary for de-leckere - processed in batch due to site pause. KVK lookup pending full scrape.
