@@ -1,1 +1,10 @@
-Alfa Brouwerij - Schinnen. Website: https://alfa-bier.nl
+name: Alfa Brouwerij
+slug: alfa-brouwerij
+city: Schinnen
+province: Limburg
+website: https://www.alfabier.nl
+kvk: 14034012
+kvk_status: Meens Bierbrouwerij B.V. / Alfa, active
+beers_listed: ~5
+notes: Traditional Limburg brewery. Homepage targeted.
+scraped_at: 2026-11-19T06:30:00

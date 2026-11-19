@@ -1,1 +1,10 @@
-Gulpener - Gulpen, Limburg. Traditional brewery. Website: https://gulpener.nl
+name: Gulpener Bierbrouwerij
+slug: gulpener-bierbrouwerij
+city: Gulpen
+province: Limburg
+website: https://www.gulpener.nl
+kvk: 14603099
+kvk_status: B.V. Gulpener / Gulpener Bierbrouwerij, active, family-owned
+beers_listed: ~15
+notes: Historic family brewery since 1825. Sustainable focus. Homepage and about saved.
+scraped_at: 2026-11-19T06:30:00

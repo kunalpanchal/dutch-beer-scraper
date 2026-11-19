@@ -1,0 +1,10 @@
+name: Brouwerij De 7 Deugden
+slug: brouwerij-de-7-deugden
+city: Amsterdam
+province: Noord-Holland
+website: https://www.7deugden.nl
+kvk: 
+kvk_status: active
+beers_listed: ~10
+notes: Amsterdam social brewery. Homepage targeted.
+scraped_at: 2026-11-19T06:30:00

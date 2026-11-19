@@ -1,0 +1,10 @@
+name: Brouwerij Emelisse
+slug: brouwerij-emelisse
+city: Goes
+province: Zeeland
+website: https://www.emelisse.nl
+kvk: 
+kvk_status: active (lookup pending full confirmation)
+beers_listed: ~20
+notes: Zeeland craft brewery known for innovative beers. Homepage and beer list targeted.
+scraped_at: 2026-11-19T06:30:00
