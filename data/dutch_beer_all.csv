@@ -9,3 +9,6 @@ index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,s
 28,Brouwerij De Leckere,de-leckere,,Utrecht,https://deleckere.nl/,,active,24,data/breweries/de-leckere,Organic brewery. Minimal summary.,2026-11-18T04:40:00
 29,Frontaal Brewing Company,frontaal,Breda,Noord-Brabant,https://frontaal.com/,,active,,data/breweries/frontaal,Known for festivals. Minimal.,2026-11-18T04:40:00
 30,Oedipus Brewing,oedipus,Amsterdam,Noord-Holland,https://oedipus.nl/,,active,,data/breweries/oedipus,Amsterdam craft. Minimal.,2026-11-18T04:40:00
+31,Uiltje Brewing Company,uiltje-brewing-company,Haarlem,Noord-Holland,https://uiltjebrewing.com/,65259831,"Uiltje Brewing Company B.V., active",,data/breweries/uiltje-brewing-company,Innovative craft, homepage + extract saved. KVK confirmed.,2026-11-19T02:30:00
+32,Van Moll,van-moll,Eindhoven,Noord-Brabant,https://vanmollcraftbeer.com/,58068309,"Van Moll Eindhoven B.V., active",,data/breweries/van-moll,Brewpub + fest. Homepage + extract. KVK confirmed.,2026-11-19T02:30:00
+33,Bird Brewery,bird-brewery,Diemen,Noord-Holland,https://birdbrewery.com/,75165937,"Bird Brewery B.V., active",,data/breweries/bird-brewery,Sustainability focused. Homepage + extract. KVK confirmed.,2026-11-19T02:30:00
