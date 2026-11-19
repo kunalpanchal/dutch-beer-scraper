@@ -1,6 +1,10 @@
-Moersleutel Craft Brewery
-Location: Alkmaar, Noord-Holland (Diamantweg 9)
-KVK: 88778118
-Website: https://moersleutel.com
-Status: active, family-owned, beer engineering focus
-Notes: Homepage, about, contact scraped. Known for Imperial Stouts (Motor Oil), pastry stouts, experimental beers. Tours available.
+name: Moersleutel Craft Brewery
+slug: moersleutel-craft-brewery
+city: Alkmaar
+province: Noord-Holland
+website: https://moersleutel.com
+kvk: 88778118
+kvk_status: Moersleutel Craft Brewery B.V., active since 2022 (earlier as De Moersleutel)
+beers_listed: ~100+
+notes: Family of four brothers, engineering-focused craft brewery. Strong export, IPAs and stouts (Motor Oil, Crank the Juice). Webshop and brewery locations. About and contact pages extracted.
+scraped_at: 2026-11-19T06:30:00

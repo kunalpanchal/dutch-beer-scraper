@@ -1,0 +1,10 @@
+name: Brouwerij Breugem
+slug: brouwerij-breugem
+city: Amsterdam
+province: Noord-Holland
+website: https://www.breugembier.nl
+kvk: 60398574
+kvk_status: Brouwerij Breugem B.V., active since 2014
+beers_listed: ~15
+notes: Social enterprise brewery in Amsterdam. Bonding Beer concept. Production and proeflokaal. Homepage saved.
+scraped_at: 2026-11-19T06:30:00

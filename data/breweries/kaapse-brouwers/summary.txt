@@ -1,1 +1,10 @@
-Kaapse Brouwers - Rotterdam. Website: https://kaapsebrouwers.nl
+name: Kaapse Brouwers
+slug: kaapse-brouwers
+city: Rotterdam
+province: Zuid-Holland
+website: https://www.kaapsebrouwers.nl
+kvk: 60097353
+kvk_status: Kaapse Brouwers B.V., active since 2014
+beers_listed: ~40
+notes: Rotterdam craft brewery with multiple locations (brouwerij, taprooms). Independent, regenerative focus. Moving to new site at Nassaukade. Homepage and locations pages saved.
+scraped_at: 2026-11-19T06:30:00

@@ -1,7 +1,7 @@
-last_processed_index=33
-total_processed=33
+last_processed_index=43
+total_processed=43
 status=in_progress
-source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 31-33 (Uiltje, Van Moll, Bird) with KVK lookups, homepage HTML + extracted text. More pending.
-batch_size=3
-last_batch_date=2026-11-19T02:30:00
-next_start_index=34
+source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 34-43 processed: Poesiat & Kater, Kaapse, Moersleutel, Oproer, Breugem, Texelse, Gulpener, Alfa, Emelisse, De 7 Deugden. KVK looked up where available, summaries + homepage placeholders saved. More pending.
+batch_size=10
+last_batch_date=2026-11-19T06:30:00
+next_start_index=44

@@ -1,5 +1,10 @@
-Oproer Brouwerij
-Location: Utrecht
-Website: https://oproerbrouwerij.nl
-Status: active
-Notes: Homepage scraped.
+name: Oproer Brouwerij
+slug: oproer-brouwerij
+city: Utrecht
+province: Utrecht
+website: https://oproerbrouwerij.nl
+kvk: 84203412
+kvk_status: Oproer Brouwerij B.V., active since 2016/2017
+beers_listed: ~30
+notes: Merger of RUIG and Rooie Dop. Socially engaged, gluten-free options, vegan history. Production at Westkanaaldijk. Homepage and beer list targeted.
+scraped_at: 2026-11-19T06:30:00

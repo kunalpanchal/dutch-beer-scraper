@@ -1,5 +1,10 @@
-Brouwerij Poesiat & Kater
-Location: Amsterdam
-Website: https://poesiatenkater.nl
-Status: active
-Notes: Homepage scraped. Amsterdam brewery with taproom.
+name: Poesiat & Kater
+slug: poesiat-en-kater
+city: Amsterdam
+province: Noord-Holland
+website: https://poesiatenkater.nl
+kvk: 65738292
+kvk_status: Brouwerij Poesiat & Kater B.V., active since 2016
+beers_listed: ~20
+notes: Amsterdam-Oost brewery and proeflokaal. Named after historic staff of former Van Vollenhoven brewery. Homepage, contact, about pages targeted. Opening hours and beer list extracted where available.
+scraped_at: 2026-11-19T06:30:00
