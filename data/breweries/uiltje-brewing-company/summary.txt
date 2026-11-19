@@ -1,1 +1,6 @@
-Uiltje Brewing Company - Haarlem. Website: https://uiltjebrewing.com. KVK: 65259831. Hoppy IPAs.
+Uiltje Brewing Company
+City: Haarlem, Noord-Holland
+Website: https://uiltjebrewing.com/
+KVK: 65259831 (Uiltje Brewing Company B.V., active, SBI 1105)
+Founded ~2012/2016, known for innovative IPAs, stouts, collabs. Owned by Royal Swinkels.
+Homepage HTML saved + extracted text.

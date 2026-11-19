@@ -1,7 +1,7 @@
-last_processed_index=30
-total_processed=30
+last_processed_index=33
+total_processed=33
 status=in_progress
-source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 25-30 from directory/search + partial KVK. Homepages for first two, summaries for others.
-batch_size=6
-last_batch_date=2026-11-18T04:40:00
-next_start_index=31
+source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 31-33 (Uiltje, Van Moll, Bird) with KVK lookups, homepage HTML + extracted text. More pending.
+batch_size=3
+last_batch_date=2026-11-19T02:30:00
+next_start_index=34
