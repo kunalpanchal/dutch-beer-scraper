@@ -7,15 +7,25 @@ index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,s
 39,Texelse Bierbrouwerij,texelse-bierbrouwerij,Den Burg,Noord-Holland,https://www.texels.nl,37112526,"Texelse Bierbrouwerij B.V., active",10,data/breweries/texelse-bierbrouwerij,Island brewery. Summary + homepage.,2026-11-19T06:30:00
 40,Gulpener Bierbrouwerij,gulpener-bierbrouwerij,Gulpen,Limburg,https://www.gulpener.nl,14603099,"Gulpener family brewery, active",15,data/breweries/gulpener-bierbrouwerij,Historic since 1825. Summary + homepage.,2026-11-19T06:30:00
 41,Alfa Brouwerij,alfa-brouwerij,Schinnen,Limburg,https://www.alfabier.nl,14034012,"Meens/Alfa, active",5,data/breweries/alfa-brouwerij,Traditional Limburg. Summary + homepage.,2026-11-19T06:30:00
-42,Brouwerij Emelisse,brouwerij-emelisse,Goes,Zeeland,https://www.emelisse.nl,,"active",20,data/breweries/brouwerij-emelisse,Zeeland craft innovator. Summary + homepage.,2026-11-19T06:30:00
-43,Brouwerij De 7 Deugden,brouwerij-de-7-deugden,Amsterdam,Noord-Holland,https://www.7deugden.nl,,"active",10,data/breweries/brouwerij-de-7-deugden,Amsterdam social brewery. Summary + homepage.,2026-11-19T06:30:00
+42,Brouwerij Emelisse,brouwerij-emelisse,Goes,Zeeland,https://www.emelisse.nl,,active,20,data/breweries/brouwerij-emelisse,Zeeland craft innovator. Summary + homepage.,2026-11-19T06:30:00
+43,Brouwerij De 7 Deugden,brouwerij-de-7-deugden,Amsterdam,Noord-Holland,https://www.7deugden.nl,,active,10,data/breweries/brouwerij-de-7-deugden,Amsterdam social brewery. Summary + homepage.,2026-11-19T06:30:00
 44,Uiltje Brewing Company,uiltje-brewing-company,Haarlem,Noord-Holland,https://uiltjebrewing.com,65259831,"Uiltje Brewing Company B.V., active",50,data/breweries/uiltje-brewing-company,Haarlem hoppy specialist. Summary + placeholders.,2026-11-20T03:30:00
 45,Frontaal Brewing Company,frontaal-brewing-company,Breda,Noord-Brabant,https://frontaalbrewingcompany.com,83763287,"Frontaal Brewing Company B.V., active",80,data/breweries/frontaal-brewing-company,Breda "Beer for Thought". Summary + placeholders.,2026-11-20T03:30:00
 46,vandeStreek bier,vandestreek,Utrecht,Utrecht,https://vandestreekbier.nl,64800113,"vandeStreek Bier B.V., active",25,data/breweries/vandestreek,Utrecht NA IPA pioneer. Summary + placeholders.,2026-11-20T03:30:00
-47,Brouwerij De Prael,brouwerij-de-prael,Amsterdam,Noord-Holland,https://deprael.nl,,"active",15,data/breweries/brouwerij-de-prael,Amsterdam social brewery. Summary.,2026-11-20T03:30:00
-48,Brouwerij 't IJ,brouwerij-t-ij,Amsterdam,Noord-Holland,https://brouwerijhetij.nl,,"active",20,data/breweries/brouwerij-t-ij,Iconic windmill brewery. Summary.,2026-11-20T03:30:00
+47,Brouwerij De Prael,brouwerij-de-prael,Amsterdam,Noord-Holland,https://deprael.nl,,active,15,data/breweries/brouwerij-de-prael,Amsterdam social brewery. Summary.,2026-11-20T03:30:00
+48,Brouwerij 't IJ,brouwerij-t-ij,Amsterdam,Noord-Holland,https://brouwerijhetij.nl,,active,20,data/breweries/brouwerij-t-ij,Iconic windmill brewery. Summary.,2026-11-20T03:30:00
 49,Lowlander,lowlander,Amsterdam,Noord-Holland,https://lowlander.nl,64409821,"Lowlander Beer Co B.V., active",23,data/breweries/lowlander,Botanical Low & No. Summary.,2026-11-20T03:30:00
-50,Van Moll,van-moll,Eindhoven,Noord-Brabant,https://vanmollcraftbeer.com,58068309,"active",30,data/breweries/van-moll,Eindhoven brewpub. Summary.,2026-11-20T03:30:00
+50,Van Moll,van-moll,Eindhoven,Noord-Brabant,https://vanmollcraftbeer.com,58068309,active,30,data/breweries/van-moll,Eindhoven brewpub. Summary.,2026-11-20T03:30:00
 51,100 Watt Brewery,100-watt,Eindhoven,Noord-Brabant,https://100watt.nl,59339144,"Stadsbrouwerij Eindhoven B.V., active",97,data/breweries/100-watt,Eindhoven craft. Summary.,2026-11-20T03:30:00
 52,Bird Brewery,bird-brewery,Diemen,Noord-Holland,https://birdbrewery.com,75165937,"Bird Brewery B.V., active",20,data/breweries/bird-brewery,Sustainability focused. Summary.,2026-11-20T03:30:00
-53,Oedipus Brewing,oedipus,Amsterdam,Noord-Holland,https://oedipusbrewing.com,,"active",40,data/breweries/oedipus,Amsterdam creative craft. Summary.,2026-11-20T03:30:00
+53,Oedipus Brewing,oedipus,Amsterdam,Noord-Holland,https://oedipusbrewing.com,,active,40,data/breweries/oedipus,Amsterdam creative craft. Summary.,2026-11-20T03:30:00
+54,Grolsch,grolsch,Enschede,Overijssel,https://www.grolsch.nl,06023267,"Koninklijke Grolsch N.V., active",,data/breweries/grolsch,Historic Enschede brewery (Asahi). Summary + homepage placeholder.,2026-11-20T04:30:00
+55,Heineken,heineken,Zoeterwoude,Zuid-Holland,https://www.heineken.com,33127977,"Heineken Nederland B.V., active",,data/breweries/heineken,Largest Dutch brewery group. Summary + homepage.,2026-11-20T04:30:00
+56,Bavaria / Royal Swinkels,bavaria-swinkels,Lieshout,Noord-Brabant,https://www.swinkelsfamilybrewers.com,17007387,"Swinkels Family Brewers N.V., active",,data/breweries/bavaria-swinkels,Family-owned Bavaria brand. Summary.,2026-11-20T04:30:00
+57,Kompaan,kompaan,Den Haag,Zuid-Holland,https://kompaanbier.nl,78198208,"Kompaan Dutch Craft Beer Company B.V., active",188,data/breweries/kompaan,Hague craft with high output. Summary + homepage.,2026-11-20T04:30:00
+58,Jopen,jopen,Haarlem,Noord-Holland,https://www.jopenbier.nl,34098342,"Jopen B.V., active",118,data/breweries/jopen,Haarlem church brewery/taproom. Summary.,2026-11-20T04:30:00
+59,Rock City Brewing,rock-city-brewing,Amersfoort,Utrecht,https://rockcitybrewing.nl,,active,93,data/breweries/rock-city-brewing,Amersfoort craft. Summary.,2026-11-20T04:30:00
+60,Brouwerij Bliksem,brouwerij-bliksem,Breda,Noord-Brabant,https://brouwerijbliksem.nl,,active,33,data/breweries/brouwerij-bliksem,Breda. Summary.,2026-11-20T04:30:00
+61,Muifelbrouwerij,muifelbrouwerij,Oss,Noord-Brabant,https://muifelbrouwerij.nl,,active,32,data/breweries/muifelbrouwerij,Oss. Summary.,2026-11-20T04:30:00
+62,Stanislaus Brewskovitch,stanislaus-brewskovitch,Enschede,Overijssel,https://stanislausbrewskovitch.nl,,active,27,data/breweries/stanislaus-brewskovitch,Enschede. Summary.,2026-11-20T04:30:00
+63,Butchers Tears,butchers-tears,Amsterdam,Noord-Holland,https://butchers-tears.com,,active,26,data/breweries/butchers-tears,Amsterdam. Summary.,2026-11-20T04:30:00
