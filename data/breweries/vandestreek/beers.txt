@@ -1,0 +1,6 @@
+vandeStreek beers:
+- Playground (Non-Alcoholic IPA) - flagship
+- Hazy Weekend (NEIPA)
+- Turf 'n Surf (Bio Tripel)
+- Witzige Weizen
+- Broeders, Hop Art, Grapefruit IPA, etc.

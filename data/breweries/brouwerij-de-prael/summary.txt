@@ -1,1 +1,10 @@
-De Prael - Amsterdam. Website: https://deprael.nl
+Name: Brouwerij De Prael
+Slug: brouwerij-de-prael
+Index: 47
+City: Amsterdam
+Province: Noord-Holland
+Website: https://deprael.nl
+KVK: (lookup pending, known active)
+KVK Status: active
+Notes: Social brewery employing people with distance to labor market. Amsterdam based.
+Scraped: 2026-11-20

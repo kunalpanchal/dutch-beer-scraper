@@ -1,1 +1,12 @@
-Frontaal Brewing Company - Breda. Website: https://frontaalbrewingcompany.com. Beer for Thought.
+Name: Frontaal Brewing Company
+Slug: frontaal-brewing-company
+Index: 45
+City: Breda
+Province: Noord-Brabant
+Website: https://frontaalbrewingcompany.com
+KVK: 83763287
+KVK Status: Frontaal Brewing Company B.V., active since 2021
+Address: Steenen Hoofd 56, 4825 AK Breda
+Beers listed: high volume of IPAs, specials, collabs
+Notes: Started 2015 in shipping container. "Beer for Thought". Brewpub in Breda. Strong in hoppy styles and limited releases.
+Scraped: 2026-11-20

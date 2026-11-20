@@ -1,5 +1,12 @@
-vandeStreek bier
-Location: Utrecht
-Website: https://vandestreek.nl
-Status: active
-Notes: Homepage scraped. Known Utrecht craft brewery with taproom.
+Name: vandeStreek bier
+Slug: vandestreek
+Index: 46
+City: Utrecht
+Province: Utrecht
+Website: https://vandestreekbier.nl
+KVK: 64800113
+KVK Status: vandeStreek Bier B.V., active
+Address: Ontariodreef 31/43, Utrecht
+Beers listed: Playground (NA IPA), Hazy Weekend, Turf 'n Surf, etc.
+Notes: Founded 2010 by brothers Sander & Ronald van de Streek. Known for alcohol-free IPA Playground. Expanding, moving facilities. Multiple taprooms.
+Scraped: 2026-11-20

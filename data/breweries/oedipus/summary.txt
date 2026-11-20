@@ -1,1 +1,10 @@
-Minimal summary for oedipus - processed in batch due to site pause. KVK lookup pending full scrape.
+Name: Oedipus Brewing
+Slug: oedipus
+Index: 53
+City: Amsterdam
+Province: Noord-Holland
+Website: https://oedipusbrewing.com
+KVK: (lookup pending)
+KVK Status: active
+Notes: Amsterdam craft brewery known for creative labels and hoppy/experimental beers.
+Scraped: 2026-11-20

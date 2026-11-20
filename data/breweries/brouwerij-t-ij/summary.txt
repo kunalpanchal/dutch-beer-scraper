@@ -1,1 +1,10 @@
-Brouwerij 't IJ - Amsterdam. Iconic windmill brewery. Website: https://brouwerijhetij.nl. Known for Natte, Zatte, etc.
+Name: Brouwerij 't IJ
+Slug: brouwerij-t-ij
+Index: 48
+City: Amsterdam
+Province: Noord-Holland
+Website: https://brouwerijhetij.nl
+KVK: (known active)
+KVK Status: active
+Notes: Iconic windmill brewery in Amsterdam. Famous for Natte, Zatte, etc. Long-standing craft pioneer.
+Scraped: 2026-11-20

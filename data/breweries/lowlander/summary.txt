@@ -1,7 +1,10 @@
-Lowlander Beer
-Location: Amsterdam, Noord-Holland
-Website: https://lowlander.nl/
-KVK: 64409821 (Lowlander Beer Co B.V., active)
-Beers listed on dutch.beer: 23
-Founded: 2015
-Notes: Botanical beers, focus on Low & No. Partnership with AB InBev for distribution. Homepage HTML saved.
+Name: Lowlander
+Slug: lowlander
+Index: 49
+City: Amsterdam
+Province: Noord-Holland
+Website: https://lowlander.nl
+KVK: 64409821
+KVK Status: Lowlander Beer Co B.V., active
+Notes: Botanical beers, Low & No focus. Partnership distribution.
+Scraped: 2026-11-20

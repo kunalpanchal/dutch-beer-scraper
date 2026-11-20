@@ -1,5 +1,10 @@
-Bird Brewery
-City: Diemen, Noord-Holland
-Website: https://birdbrewery.com/
-KVK: 75165937 (Bird Brewery B.V., active)
-Founded 2015/2016 by Ralph van Bemmel & Rik van den Berg. Sustainability focus (1L=1m2 nature). Proeflokalen House of Bird. Homepage HTML + extracted.
+Name: Bird Brewery
+Slug: bird-brewery
+Index: 52
+City: Diemen
+Province: Noord-Holland
+Website: https://birdbrewery.com
+KVK: 75165937
+KVK Status: Bird Brewery B.V., active
+Notes: Founded ~2015/2016 by Ralph van Bemmel & Rik van den Berg. Sustainability focus (1L=1m2 nature). Proeflokalen.
+Scraped: 2026-11-20

@@ -1,7 +1,10 @@
-100 Watt Brewery (formerly Stadsbrouwerij Eindhoven)
-Location: Eindhoven, Noord-Brabant
-Website: https://100watt.nl/
-KVK: 59339144 (Stadsbrouwerij Eindhoven B.V., active)
-Beers listed on dutch.beer: 97
-Founded: 2014
-Notes: Craft brewery in Eindhoven, part of Lighttown Brewers collaboration. Proeflokaal at Bleekweg 1. Homepage HTML saved.
+Name: 100 Watt Brewery
+Slug: 100-watt
+Index: 51
+City: Eindhoven
+Province: Noord-Brabant
+Website: https://100watt.nl
+KVK: 59339144
+KVK Status: Stadsbrouwerij Eindhoven B.V., active
+Notes: Formerly Stadsbrouwerij Eindhoven. Part of Lighttown Brewers. Proeflokaal at Bleekweg.
+Scraped: 2026-11-20

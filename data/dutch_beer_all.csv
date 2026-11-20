@@ -9,3 +9,13 @@ index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,s
 41,Alfa Brouwerij,alfa-brouwerij,Schinnen,Limburg,https://www.alfabier.nl,14034012,"Meens/Alfa, active",5,data/breweries/alfa-brouwerij,Traditional Limburg. Summary + homepage.,2026-11-19T06:30:00
 42,Brouwerij Emelisse,brouwerij-emelisse,Goes,Zeeland,https://www.emelisse.nl,,"active",20,data/breweries/brouwerij-emelisse,Zeeland craft innovator. Summary + homepage.,2026-11-19T06:30:00
 43,Brouwerij De 7 Deugden,brouwerij-de-7-deugden,Amsterdam,Noord-Holland,https://www.7deugden.nl,,"active",10,data/breweries/brouwerij-de-7-deugden,Amsterdam social brewery. Summary + homepage.,2026-11-19T06:30:00
+44,Uiltje Brewing Company,uiltje-brewing-company,Haarlem,Noord-Holland,https://uiltjebrewing.com,65259831,"Uiltje Brewing Company B.V., active",50,data/breweries/uiltje-brewing-company,Haarlem hoppy specialist. Summary + placeholders.,2026-11-20T03:30:00
+45,Frontaal Brewing Company,frontaal-brewing-company,Breda,Noord-Brabant,https://frontaalbrewingcompany.com,83763287,"Frontaal Brewing Company B.V., active",80,data/breweries/frontaal-brewing-company,Breda "Beer for Thought". Summary + placeholders.,2026-11-20T03:30:00
+46,vandeStreek bier,vandestreek,Utrecht,Utrecht,https://vandestreekbier.nl,64800113,"vandeStreek Bier B.V., active",25,data/breweries/vandestreek,Utrecht NA IPA pioneer. Summary + placeholders.,2026-11-20T03:30:00
+47,Brouwerij De Prael,brouwerij-de-prael,Amsterdam,Noord-Holland,https://deprael.nl,,"active",15,data/breweries/brouwerij-de-prael,Amsterdam social brewery. Summary.,2026-11-20T03:30:00
+48,Brouwerij 't IJ,brouwerij-t-ij,Amsterdam,Noord-Holland,https://brouwerijhetij.nl,,"active",20,data/breweries/brouwerij-t-ij,Iconic windmill brewery. Summary.,2026-11-20T03:30:00
+49,Lowlander,lowlander,Amsterdam,Noord-Holland,https://lowlander.nl,64409821,"Lowlander Beer Co B.V., active",23,data/breweries/lowlander,Botanical Low & No. Summary.,2026-11-20T03:30:00
+50,Van Moll,van-moll,Eindhoven,Noord-Brabant,https://vanmollcraftbeer.com,58068309,"active",30,data/breweries/van-moll,Eindhoven brewpub. Summary.,2026-11-20T03:30:00
+51,100 Watt Brewery,100-watt,Eindhoven,Noord-Brabant,https://100watt.nl,59339144,"Stadsbrouwerij Eindhoven B.V., active",97,data/breweries/100-watt,Eindhoven craft. Summary.,2026-11-20T03:30:00
+52,Bird Brewery,bird-brewery,Diemen,Noord-Holland,https://birdbrewery.com,75165937,"Bird Brewery B.V., active",20,data/breweries/bird-brewery,Sustainability focused. Summary.,2026-11-20T03:30:00
+53,Oedipus Brewing,oedipus,Amsterdam,Noord-Holland,https://oedipusbrewing.com,,"active",40,data/breweries/oedipus,Amsterdam creative craft. Summary.,2026-11-20T03:30:00
