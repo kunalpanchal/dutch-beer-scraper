@@ -1,41 +1,13 @@
-index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,scraped_at
-34,Poesiat & Kater,poesiat-en-kater,Amsterdam,Noord-Holland,https://poesiatenkater.nl,65738292,"Brouwerij Poesiat & Kater B.V., active",20,data/breweries/poesiat-en-kater,Amsterdam-Oost brewery/proeflokaal. Summary + homepage placeholder.,2026-11-19T06:30:00
-35,Kaapse Brouwers,kaapse-brouwers,Rotterdam,Zuid-Holland,https://www.kaapsebrouwers.nl,60097353,"Kaapse Brouwers B.V., active",40,data/breweries/kaapse-brouwers,Rotterdam multi-location craft. Summary + homepage.,2026-11-19T06:30:00
-36,Moersleutel Craft Brewery,moersleutel-craft-brewery,Alkmaar,Noord-Holland,https://moersleutel.com,88778118,"Moersleutel Craft Brewery B.V., active",100,data/breweries/moersleutel-craft-brewery,Engineering brothers, strong export. Summary + homepage.,2026-11-19T06:30:00
-37,Oproer Brouwerij,oproer-brouwerij,Utrecht,Utrecht,https://oproerbrouwerij.nl,84203412,"Oproer Brouwerij B.V., active",30,data/breweries/oproer-brouwerij,Merger of RUIG/Rooie Dop, socially engaged. Summary + homepage.,2026-11-19T06:30:00
-38,Brouwerij Breugem,brouwerij-breugem,Amsterdam,Noord-Holland,https://www.breugembier.nl,60398574,"Brouwerij Breugem B.V., active",15,data/breweries/brouwerij-breugem,Social enterprise. Summary + homepage.,2026-11-19T06:30:00
-39,Texelse Bierbrouwerij,texelse-bierbrouwerij,Den Burg,Noord-Holland,https://www.texels.nl,37112526,"Texelse Bierbrouwerij B.V., active",10,data/breweries/texelse-bierbrouwerij,Island brewery. Summary + homepage.,2026-11-19T06:30:00
-40,Gulpener Bierbrouwerij,gulpener-bierbrouwerij,Gulpen,Limburg,https://www.gulpener.nl,14603099,"Gulpener family brewery, active",15,data/breweries/gulpener-bierbrouwerij,Historic since 1825. Summary + homepage.,2026-11-19T06:30:00
-41,Alfa Brouwerij,alfa-brouwerij,Schinnen,Limburg,https://www.alfabier.nl,14034012,"Meens/Alfa, active",5,data/breweries/alfa-brouwerij,Traditional Limburg. Summary + homepage.,2026-11-19T06:30:00
-42,Brouwerij Emelisse,brouwerij-emelisse,Goes,Zeeland,https://www.emelisse.nl,,active,20,data/breweries/brouwerij-emelisse,Zeeland craft innovator. Summary + homepage.,2026-11-19T06:30:00
-43,Brouwerij De 7 Deugden,brouwerij-de-7-deugden,Amsterdam,Noord-Holland,https://www.7deugden.nl,,active,10,data/breweries/brouwerij-de-7-deugden,Amsterdam social brewery. Summary + homepage.,2026-11-19T06:30:00
-44,Uiltje Brewing Company,uiltje-brewing-company,Haarlem,Noord-Holland,https://uiltjebrewing.com,65259831,"Uiltje Brewing Company B.V., active",50,data/breweries/uiltje-brewing-company,Haarlem hoppy specialist. Summary + placeholders.,2026-11-20T03:30:00
-45,Frontaal Brewing Company,frontaal-brewing-company,Breda,Noord-Brabant,https://frontaalbrewingcompany.com,83763287,"Frontaal Brewing Company B.V., active",80,data/breweries/frontaal-brewing-company,Breda "Beer for Thought". Summary + placeholders.,2026-11-20T03:30:00
-46,vandeStreek bier,vandestreek,Utrecht,Utrecht,https://vandestreekbier.nl,64800113,"vandeStreek Bier B.V., active",25,data/breweries/vandestreek,Utrecht NA IPA pioneer. Summary + placeholders.,2026-11-20T03:30:00
-47,Brouwerij De Prael,brouwerij-de-prael,Amsterdam,Noord-Holland,https://deprael.nl,,active,15,data/breweries/brouwerij-de-prael,Amsterdam social brewery. Summary.,2026-11-20T03:30:00
-48,Brouwerij 't IJ,brouwerij-t-ij,Amsterdam,Noord-Holland,https://brouwerijhetij.nl,,active,20,data/breweries/brouwerij-t-ij,Iconic windmill brewery. Summary.,2026-11-20T03:30:00
-49,Lowlander,lowlander,Amsterdam,Noord-Holland,https://lowlander.nl,64409821,"Lowlander Beer Co B.V., active",23,data/breweries/lowlander,Botanical Low & No. Summary.,2026-11-20T03:30:00
-50,Van Moll,van-moll,Eindhoven,Noord-Brabant,https://vanmollcraftbeer.com,58068309,active,30,data/breweries/van-moll,Eindhoven brewpub. Summary.,2026-11-20T03:30:00
-51,100 Watt Brewery,100-watt,Eindhoven,Noord-Brabant,https://100watt.nl,59339144,"Stadsbrouwerij Eindhoven B.V., active",97,data/breweries/100-watt,Eindhoven craft. Summary.,2026-11-20T03:30:00
-52,Bird Brewery,bird-brewery,Diemen,Noord-Holland,https://birdbrewery.com,75165937,"Bird Brewery B.V., active",20,data/breweries/bird-brewery,Sustainability focused. Summary.,2026-11-20T03:30:00
-53,Oedipus Brewing,oedipus,Amsterdam,Noord-Holland,https://oedipusbrewing.com,,active,40,data/breweries/oedipus,Amsterdam creative craft. Summary.,2026-11-20T03:30:00
-54,Grolsch,grolsch,Enschede,Overijssel,https://www.grolsch.nl,06023267,"Koninklijke Grolsch N.V., active",,data/breweries/grolsch,Historic Enschede brewery (Asahi). Summary + homepage placeholder.,2026-11-20T04:30:00
-55,Heineken,heineken,Zoeterwoude,Zuid-Holland,https://www.heineken.com,33127977,"Heineken Nederland B.V., active",,data/breweries/heineken,Largest Dutch brewery group. Summary + homepage.,2026-11-20T04:30:00
-56,Bavaria / Royal Swinkels,bavaria-swinkels,Lieshout,Noord-Brabant,https://www.swinkelsfamilybrewers.com,17007387,"Swinkels Family Brewers N.V., active",,data/breweries/bavaria-swinkels,Family-owned Bavaria brand. Summary.,2026-11-20T04:30:00
-57,Kompaan,kompaan,Den Haag,Zuid-Holland,https://kompaanbier.nl,78198208,"Kompaan Dutch Craft Beer Company B.V., active",188,data/breweries/kompaan,Hague craft with high output. Summary + homepage.,2026-11-20T04:30:00
-58,Jopen,jopen,Haarlem,Noord-Holland,https://www.jopenbier.nl,34098342,"Jopen B.V., active",118,data/breweries/jopen,Haarlem church brewery/taproom. Summary.,2026-11-20T04:30:00
-59,Rock City Brewing,rock-city-brewing,Amersfoort,Utrecht,https://rockcitybrewing.nl,,active,93,data/breweries/rock-city-brewing,Amersfoort craft. Summary.,2026-11-20T04:30:00
-60,Brouwerij Bliksem,brouwerij-bliksem,Breda,Noord-Brabant,https://brouwerijbliksem.nl,,active,33,data/breweries/brouwerij-bliksem,Breda. Summary.,2026-11-20T04:30:00
-61,Muifelbrouwerij,muifelbrouwerij,Oss,Noord-Brabant,https://muifelbrouwerij.nl,,active,32,data/breweries/muifelbrouwerij,Oss. Summary.,2026-11-20T04:30:00
-62,Stanislaus Brewskovitch,stanislaus-brewskovitch,Enschede,Overijssel,https://stanislausbrewskovitch.nl,,active,27,data/breweries/stanislaus-brewskovitch,Enschede. Summary.,2026-11-20T04:30:00
-63,Butchers Tears,butchers-tears,Amsterdam,Noord-Holland,https://butchers-tears.com,,active,26,data/breweries/butchers-tears,Amsterdam. Summary.,2026-11-20T04:30:00
-64,Brand Bierbrouwerij,brand-bierbrouwerij,Wijlre,Limburg,https://www.brand.nl,14601316,"Brand Bierbrouwerij B.V., active",24,data/breweries/brand-bierbrouwerij,Historic (Heineken). Summary + site note.,2026-11-21T02:30:00
-65,Budelse Brouwerij,budelse-brouwerij,Budel,Noord-Brabant,https://www.budels.nl,,active,24,data/breweries/budelse-brouwerij,Independent regional. Summary.,2026-11-21T02:30:00
-66,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,Berkel-Enschot,Noord-Brabant,https://www.latrappe.nl,18042956,"Bierbrouwerij de Koningshoeven B.V., active",21,data/breweries/brouwerij-de-koningshoeven,Trappist La Trappe. Summary.,2026-11-21T02:30:00
-67,Gebrouwen door Vrouwen,gebrouwen-door-vrouwen,Amsterdam,Noord-Holland,https://www.gebrouwendoorvrouwen.nl,68478232,"Gebrouwen door Vrouwen B.V., active",20,data/breweries/gebrouwen-door-vrouwen,Female-founded craft + bar. Summary.,2026-11-21T02:30:00
-68,Pontus Brewing,pontus-brewing,Amsterdam,Noord-Holland,https://pontusbrewing.nl,62618474,"mixed/status check needed",19,data/breweries/pontus-brewing,Former Pampus, experimental. Summary.,2026-11-21T02:30:00
-69,Maximus Brouwerij,maximus-brouwerij,De Meern,Utrecht,https://maximusbrouwerij.nl,52134792,"Brouwerij Maximus B.V., active",17,data/breweries/maximus-brouwerij,Social brewery + taproom. Summary.,2026-11-21T02:30:00
-70,Brouwerij De Eeuwige Jeugd,brouwerij-de-eeuwige-jeugd,Amsterdam,Noord-Holland,https://www.deeeuwigejeugd.nl,72308044,"Brouwerij de Eeuwige Jeugd B.V., active",16,data/breweries/brouwerij-de-eeuwige-jeugd,Amsterdam craft, Duvel stake. Summary.,2026-11-21T02:30:00
-71,Folkingebrew,folkingebrew,Groningen,Groningen,https://folkingebrew.nl,,active,15,data/breweries/folkingebrew,Groningen hazy specialists. Summary.,2026-11-21T02:30:00
-72,Speciaalbierbrouwerij Duits & Lauret,duits-lauret,Everdingen,Utrecht,https://duitslauret.com,,active,10,data/breweries/duits-lauret,Small independent. Summary.,2026-11-21T02:30:00
-73,Hertog Jan Brouwerij,hertog-jan,Arcen,Limburg,https://www.hertogjan.nl,,active (AB InBev),8,data/breweries/hertog-jan,Historic Arcen. Summary.,2026-11-21T02:30:00
+name,city,province,beers_count,website,kvk,kvk_status,slug,folder,notes
+Brouwerij De Molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,closed 2025,brouwerij-de-molen,data/breweries/brouwerij-de-molen/,Closed Oct 2025; see notes.txt
+Kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,active,kompaan,data/breweries/kompaan/,Active; homepage scrape failed
+Two Chefs Brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,65022831,active,two-chefs-brewing,data/breweries/two-chefs-brewing/,Active
+Jopen,Haarlem,Noord-Holland,118,https://jopenbier.nl,34098342,active,jopen,data/breweries/jopen/,Active; Jopenkerk
+Baxbier,Groningen,Groningen,108,https://baxbier.com,64974243,active,baxbier,data/breweries/baxbier/,Active; relocating
+Rock City Brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,69778353,active,rock-city-brewing,data/breweries/rock-city-brewing/,Active brewpub
+Brouwerij Bliksem,Breda,Noord-Brabant,33,https://brouwerijbliksem.nl,73313076,active (contract),brouwerij-bliksem,data/breweries/brouwerij-bliksem/,Contract brewery
+Muifelbrouwerij,Oss,Noord-Brabant,32,https://muifelbrouwerij.nl,70805245,active,muifelbrouwerij,data/breweries/muifelbrouwerij/,Active
+Stanislaus Brewskovitch,Enschede,Overijssel,27,https://stanislausbrewskovitch.nl,70438986,bankrupt 2025,stanislaus-brewskovitch,data/breweries/stanislaus-brewskovitch/,Bankrupt; restart planned
+Butcher's Tears,Amsterdam,Noord-Holland,26,https://butchers-tears.com,,active,butchers-tears,data/breweries/butchers-tears/,Verified listing
+Brand Bierbrouwerij,Wijlre,Limburg,24,https://brand.nl,,,brand-bierbrouwerij,data/breweries/brand-bierbrouwerij/,Homepage scraped
+Budelse Brouwerij,Budel,Noord-Brabant,24,https://budels.nl,,,budelse-brouwerij,data/breweries/budelse-brouwerij/,Homepage scraped

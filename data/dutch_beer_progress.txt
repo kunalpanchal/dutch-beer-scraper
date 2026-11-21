@@ -1,7 +1,7 @@
-last_processed_index=78
-total_processed=78
+last_processed_index=90
+total_processed=90
 status=in_progress
-source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 74-78 processed from directory snippet (Sint Christoffel, iKi Beer, Henky, Berghoeve, Oijen). KVK looked up, sites scraped where accessible, summaries created. Full pagination unavailable due to site pause. More pending.
-batch_size=5
-last_batch_date=2026-11-21T03:15:00
-next_start_index=79
+source_note=dutch.beer site currently returns Deployment Paused / 402. Continued with official sites for additional batch. KVK looked up for key ones. Raw HTML saved where accessible.
+batch_size=12
+last_batch_date=2026-11-21T04:15:00
+next_start_index=91
