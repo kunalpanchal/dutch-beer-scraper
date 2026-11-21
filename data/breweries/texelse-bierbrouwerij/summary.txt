@@ -1,10 +1,10 @@
-name: Texelse Bierbrouwerij
-slug: texelse-bierbrouwerij
-city: Den Burg
-province: Noord-Holland
-website: https://www.texels.nl
-kvk: 37112526
-kvk_status: Texelse Bierbrouwerij B.V., active
-beers_listed: ~10
-notes: Island brewery on Texel. Traditional and craft. Homepage targeted.
-scraped_at: 2026-11-19T06:30:00
+Name: Texelse Bierbrouwerij
+City: Den Burg
+Province: Noord-Holland
+Website: https://texels.nl
+KVK: unknown
+Status: active
+Slug: texelse-bierbrouwerij
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

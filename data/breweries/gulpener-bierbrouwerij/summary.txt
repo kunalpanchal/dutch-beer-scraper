@@ -1,10 +1,10 @@
-name: Gulpener Bierbrouwerij
-slug: gulpener-bierbrouwerij
-city: Gulpen
-province: Limburg
-website: https://www.gulpener.nl
-kvk: 14603099
-kvk_status: B.V. Gulpener / Gulpener Bierbrouwerij, active, family-owned
-beers_listed: ~15
-notes: Historic family brewery since 1825. Sustainable focus. Homepage and about saved.
-scraped_at: 2026-11-19T06:30:00
+Name: Gulpener Bierbrouwerij
+City: Gulpen
+Province: Limburg
+Website: https://gulpener.nl
+KVK: unknown
+Status: active
+Slug: gulpener-bierbrouwerij
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

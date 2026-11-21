@@ -1,10 +1,10 @@
 Name: Lowlander
-Slug: lowlander
-Index: 49
 City: Amsterdam
 Province: Noord-Holland
-Website: https://lowlander.nl
-KVK: 64409821
-KVK Status: Lowlander Beer Co B.V., active
-Notes: Botanical beers, Low & No focus. Partnership distribution.
-Scraped: 2026-11-20
+Website: https://lowlander.com
+KVK: unknown
+Status: active
+Slug: lowlander
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

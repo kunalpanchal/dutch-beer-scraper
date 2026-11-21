@@ -1,6 +1,10 @@
-Henky B.V. / Henky Bier
-City: 's-Hertogenbosch / Bokhoven, Noord-Brabant
-Website: https://henkybier.nl/
-KVK: 78230470, active
-Beers: small range (e.g. Heavy Henky Quadrupel, Wijze Henky Weizen). CRAFT member.
-Founded 2020 by Koen Pijnenburg. Age-gate on site limited scrape.
+Name: Henky
+City: Amsterdam
+Province: Noord-Holland
+Website: https://henky.nl
+KVK: unknown
+Status: active
+Slug: henky
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

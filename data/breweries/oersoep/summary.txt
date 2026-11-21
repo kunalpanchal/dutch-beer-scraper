@@ -1,0 +1,10 @@
+Name: Oersoep
+City: Nijmegen
+Province: Gelderland
+Website: https://oersoep.nl
+KVK: unknown
+Status: active
+Slug: oersoep
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

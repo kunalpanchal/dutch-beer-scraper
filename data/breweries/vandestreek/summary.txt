@@ -1,12 +1,10 @@
-Name: vandeStreek bier
-Slug: vandestreek
-Index: 46
+Name: vandeStreek
 City: Utrecht
 Province: Utrecht
-Website: https://vandestreekbier.nl
-KVK: 64800113
-KVK Status: vandeStreek Bier B.V., active
-Address: Ontariodreef 31/43, Utrecht
-Beers listed: Playground (NA IPA), Hazy Weekend, Turf 'n Surf, etc.
-Notes: Founded 2010 by brothers Sander & Ronald van de Streek. Known for alcohol-free IPA Playground. Expanding, moving facilities. Multiple taprooms.
-Scraped: 2026-11-20
+Website: https://vandestreek.nl
+KVK: unknown
+Status: active
+Slug: vandestreek
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

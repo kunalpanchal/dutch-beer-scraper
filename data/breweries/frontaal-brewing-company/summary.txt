@@ -1,12 +1,10 @@
 Name: Frontaal Brewing Company
-Slug: frontaal-brewing-company
-Index: 45
 City: Breda
 Province: Noord-Brabant
-Website: https://frontaalbrewingcompany.com
+Website: https://frontaalbrewing.com
 KVK: 83763287
-KVK Status: Frontaal Brewing Company B.V., active since 2021
-Address: Steenen Hoofd 56, 4825 AK Breda
-Beers listed: high volume of IPAs, specials, collabs
-Notes: Started 2015 in shipping container. "Beer for Thought". Brewpub in Breda. Strong in hoppy styles and limited releases.
-Scraped: 2026-11-20
+Status: active
+Slug: frontaal-brewing-company
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

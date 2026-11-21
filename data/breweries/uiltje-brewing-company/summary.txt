@@ -1,12 +1,10 @@
 Name: Uiltje Brewing Company
-Slug: uiltje-brewing-company
-Index: 44
 City: Haarlem
 Province: Noord-Holland
-Website: https://uiltjebrewing.com
+Website: https://uiltje.com
 KVK: 65259831
-KVK Status: Uiltje Brewing Company B.V., active since 2016
-Address: Bingerweg 25, 2031 AZ Haarlem
-Beers listed: ~50+ (hop-forward, NEIPA focus)
-Notes: Founded 2012 as Brouwerij Het Uiltje by Robbert Uyleman. Known for hoppy beers, "Store cold, Drink fresh". Webshop and subscriptions.
-Scraped: 2026-11-20
+Status: active
+Slug: uiltje-brewing-company
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

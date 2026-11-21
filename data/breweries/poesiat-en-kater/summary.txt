@@ -1,10 +1,10 @@
-name: Poesiat & Kater
-slug: poesiat-en-kater
-city: Amsterdam
-province: Noord-Holland
-website: https://poesiatenkater.nl
-kvk: 65738292
-kvk_status: Brouwerij Poesiat & Kater B.V., active since 2016
-beers_listed: ~20
-notes: Amsterdam-Oost brewery and proeflokaal. Named after historic staff of former Van Vollenhoven brewery. Homepage, contact, about pages targeted. Opening hours and beer list extracted where available.
-scraped_at: 2026-11-19T06:30:00
+Name: Poesiat & Kater
+City: Amsterdam
+Province: Noord-Holland
+Website: https://poesiatenkater.nl
+KVK: unknown
+Status: active
+Slug: poesiat-en-kater
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

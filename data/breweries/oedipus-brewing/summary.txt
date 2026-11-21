@@ -1,0 +1,10 @@
+Name: Oedipus Brewing
+City: Amsterdam
+Province: Noord-Holland
+Website: https://oedipusbrewing.com
+KVK: 62369512
+Status: active
+Slug: oedipus-brewing
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).

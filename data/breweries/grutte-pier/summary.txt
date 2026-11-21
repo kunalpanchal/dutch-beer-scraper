@@ -1,1 +1,10 @@
-Minimal summary for grutte-pier - processed in batch due to site pause. KVK lookup pending full scrape.
+Name: Grutte Pier
+City: Leeuwarden
+Province: Friesland
+Website: https://gruttepier.nl
+KVK: unknown
+Status: active
+Slug: grutte-pier
+Processed: 2026-11-21
+Source: dutch.beer (paused) + official site + Open Brewery DB / KVK lookups
+Notes: Batch continuation while dutch.beer deployment paused (402).
