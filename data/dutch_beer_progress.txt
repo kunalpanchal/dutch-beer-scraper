@@ -1,7 +1,7 @@
-last_processed_index=73
-total_processed=73
+last_processed_index=78
+total_processed=78
 status=in_progress
-source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 64-73 processed: Brand, Budelse, Koningshoeven, Gebrouwen door Vrouwen, Pontus, Maximus, Eeuwige Jeugd, Folkingebrew, Duits & Lauret, Hertog Jan. KVK looked up where available, summaries updated. More pending.
-batch_size=10
-last_batch_date=2026-11-21T02:30:00
-next_start_index=74
+source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 74-78 processed from directory snippet (Sint Christoffel, iKi Beer, Henky, Berghoeve, Oijen). KVK looked up, sites scraped where accessible, summaries created. Full pagination unavailable due to site pause. More pending.
+batch_size=5
+last_batch_date=2026-11-21T03:15:00
+next_start_index=79

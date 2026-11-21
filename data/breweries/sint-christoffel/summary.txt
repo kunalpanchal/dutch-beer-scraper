@@ -1,1 +1,6 @@
-Sint Christoffel: Former Roermond brewery (1986-2013), bankrupt then restarted as contract brewer in Belgium under Sint Christoffel Bieren BV (KVK 57508453 or related 14120128 liquidated). Website christoffelbieren.com. Historic Limburg lager/bock specialist.
+Brouwerij Sint Christoffel (now Speciaalbierbrouwerij St. Christoffel / Sint Christoffel Bier B.V.)
+City: Roermond (brand), Limburg. Originally Roermond brewery 1986-2013, bankrupt, now contract-brewed (e.g. Proefbrouwerij, Belgium).
+Website: christoffelbieren.com
+KVK: 14120128 (Sint Christoffel Bier B.V.), status: active brand / huurbrouwer
+Beers listed on dutch.beer: 7
+Notes: Historic Roermond brewery founded by Leo Brand. Site access limited during scrape. See Wikipedia for history.
