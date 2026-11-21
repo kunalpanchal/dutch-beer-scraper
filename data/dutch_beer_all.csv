@@ -29,3 +29,13 @@ index,name,slug,city,province,website,kvk,kvk_status,beers_listed,folder,notes,s
 61,Muifelbrouwerij,muifelbrouwerij,Oss,Noord-Brabant,https://muifelbrouwerij.nl,,active,32,data/breweries/muifelbrouwerij,Oss. Summary.,2026-11-20T04:30:00
 62,Stanislaus Brewskovitch,stanislaus-brewskovitch,Enschede,Overijssel,https://stanislausbrewskovitch.nl,,active,27,data/breweries/stanislaus-brewskovitch,Enschede. Summary.,2026-11-20T04:30:00
 63,Butchers Tears,butchers-tears,Amsterdam,Noord-Holland,https://butchers-tears.com,,active,26,data/breweries/butchers-tears,Amsterdam. Summary.,2026-11-20T04:30:00
+64,Brand Bierbrouwerij,brand-bierbrouwerij,Wijlre,Limburg,https://www.brand.nl,14601316,"Brand Bierbrouwerij B.V., active",24,data/breweries/brand-bierbrouwerij,Historic (Heineken). Summary + site note.,2026-11-21T02:30:00
+65,Budelse Brouwerij,budelse-brouwerij,Budel,Noord-Brabant,https://www.budels.nl,,active,24,data/breweries/budelse-brouwerij,Independent regional. Summary.,2026-11-21T02:30:00
+66,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,Berkel-Enschot,Noord-Brabant,https://www.latrappe.nl,18042956,"Bierbrouwerij de Koningshoeven B.V., active",21,data/breweries/brouwerij-de-koningshoeven,Trappist La Trappe. Summary.,2026-11-21T02:30:00
+67,Gebrouwen door Vrouwen,gebrouwen-door-vrouwen,Amsterdam,Noord-Holland,https://www.gebrouwendoorvrouwen.nl,68478232,"Gebrouwen door Vrouwen B.V., active",20,data/breweries/gebrouwen-door-vrouwen,Female-founded craft + bar. Summary.,2026-11-21T02:30:00
+68,Pontus Brewing,pontus-brewing,Amsterdam,Noord-Holland,https://pontusbrewing.nl,62618474,"mixed/status check needed",19,data/breweries/pontus-brewing,Former Pampus, experimental. Summary.,2026-11-21T02:30:00
+69,Maximus Brouwerij,maximus-brouwerij,De Meern,Utrecht,https://maximusbrouwerij.nl,52134792,"Brouwerij Maximus B.V., active",17,data/breweries/maximus-brouwerij,Social brewery + taproom. Summary.,2026-11-21T02:30:00
+70,Brouwerij De Eeuwige Jeugd,brouwerij-de-eeuwige-jeugd,Amsterdam,Noord-Holland,https://www.deeeuwigejeugd.nl,72308044,"Brouwerij de Eeuwige Jeugd B.V., active",16,data/breweries/brouwerij-de-eeuwige-jeugd,Amsterdam craft, Duvel stake. Summary.,2026-11-21T02:30:00
+71,Folkingebrew,folkingebrew,Groningen,Groningen,https://folkingebrew.nl,,active,15,data/breweries/folkingebrew,Groningen hazy specialists. Summary.,2026-11-21T02:30:00
+72,Speciaalbierbrouwerij Duits & Lauret,duits-lauret,Everdingen,Utrecht,https://duitslauret.com,,active,10,data/breweries/duits-lauret,Small independent. Summary.,2026-11-21T02:30:00
+73,Hertog Jan Brouwerij,hertog-jan,Arcen,Limburg,https://www.hertogjan.nl,,active (AB InBev),8,data/breweries/hertog-jan,Historic Arcen. Summary.,2026-11-21T02:30:00

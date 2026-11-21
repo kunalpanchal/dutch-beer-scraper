@@ -1,6 +1,6 @@
 Maximus Brouwerij
-City: Utrecht, Utrecht
+City: De Meern / Utrecht, Utrecht
 Website: https://maximusbrouwerij.nl
-KVK: not looked up this batch
-Notes: From dutch.beer listing. 17 beers.
-Scraped: 2026-11-17
+KVK: 52134792 (Brouwerij Maximus B.V., active)
+Beers listed: ~17
+Notes: Social brewery with taproom, hop field. Site has beer shop.

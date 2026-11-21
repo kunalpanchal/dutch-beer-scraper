@@ -1,6 +1,6 @@
 Speciaalbierbrouwerij Duits & Lauret
 City: Everdingen, Utrecht
 Website: https://duitslauret.com
-KVK: not looked up this batch
-Notes: From dutch.beer. 10 beers, often Stout.
-Scraped: 2026-11-17
+KVK: looked up (active)
+Beers listed: ~10
+Notes: Small independent, traditional styles.

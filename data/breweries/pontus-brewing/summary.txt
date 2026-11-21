@@ -1,8 +1,6 @@
 Pontus Brewing
 City: Amsterdam, Noord-Holland
-Website: https://www.pontusbrewing.nl
-KVK: 62618474 or 75551152 (status: brand under Naeckte Brouwers as of 2025, original entity deregistered)
-Founded: ~2013 (as Pampus)
-Notes: Experimental/gypsy then micro. Now fully owned by Naeckte Brouwers. Beers include Dark Hops, Gigantic Sailor, Allmouth, etc.
-Beers: 19 listed
-Scraped: 2026-11-17
+Website: https://pontusbrewing.nl
+KVK: 62618474 / 75551152 (status mixed; some sources note deregistered or owned by Naeckte Brouwers)
+Beers listed: ~19
+Notes: Former Pampus, experimental styles. Site returned 403.

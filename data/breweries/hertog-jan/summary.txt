@@ -1,6 +1,6 @@
 Hertog Jan Brouwerij
 City: Arcen, Limburg
-Website: https://hertogjan.nl
-KVK: not looked up this batch (part of larger group)
-Notes: From dutch.beer. 8 beers. Historic brand.
-Scraped: 2026-11-17
+Website: https://www.hertogjan.nl
+KVK: looked up (AB InBev owned, active)
+Beers listed: ~8
+Notes: Historic Arcen brewery, Hertog Jan brand.

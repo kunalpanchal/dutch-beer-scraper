@@ -1,7 +1,7 @@
-last_processed_index=63
-total_processed=63
+last_processed_index=73
+total_processed=73
 status=in_progress
-source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 54-63 processed: Grolsch, Heineken, Bavaria/Swinkels, Kompaan, Jopen, Rock City, Bliksem, Muifel, Stanislaus, Butchers Tears. KVK looked up where available, summaries + homepage placeholders saved. More pending.
+source_note=dutch.beer site currently returns Deployment Paused / 402. Batch 64-73 processed: Brand, Budelse, Koningshoeven, Gebrouwen door Vrouwen, Pontus, Maximus, Eeuwige Jeugd, Folkingebrew, Duits & Lauret, Hertog Jan. KVK looked up where available, summaries updated. More pending.
 batch_size=10
-last_batch_date=2026-11-20T04:30:00
-next_start_index=64
+last_batch_date=2026-11-21T02:30:00
+next_start_index=74

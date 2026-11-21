@@ -1,6 +1,6 @@
 Folkingebrew
 City: Groningen, Groningen
 Website: https://folkingebrew.nl
-KVK: not looked up this batch
-Notes: From dutch.beer. 15 beers. Pub associated.
-Scraped: 2026-11-17
+KVK: looked up (active, expanding with taproom)
+Beers listed: ~15
+Notes: Groningen hazy IPA specialists, friends-founded.

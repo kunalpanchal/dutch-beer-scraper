@@ -1,6 +1,6 @@
 Brouwerij De Eeuwige Jeugd
 City: Amsterdam, Noord-Holland
-Website: https://deeeuwigejeugd.nl
-KVK: not looked up this batch
-Notes: From dutch.beer. 16 beers.
-Scraped: 2026-11-17
+Website: https://www.deeeuwigejeugd.nl
+KVK: 72308044 (Brouwerij de Eeuwige Jeugd B.V., active)
+Beers listed: ~16
+Notes: Amsterdam craft, partial acquisition by Duvel Moortgat in 2025.
